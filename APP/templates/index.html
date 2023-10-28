@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recovery Time Estimation</title>
+</head>
+<body>
+    <h1>Recovery Time Estimation</h1>
+    <form method="POST" action="/">
+        <label for="hemipleji">HEMIPLEGIA DURATION:</label>
+        <input type="text" id="hemipleji" name="hemipleji"><br><br>
+
+        <input type="submit" value="Predict Recovery Time">
+    </form>
+
+    {% if prediction_text %}
+    <h2>Prediction Result: {{ prediction_text }}</h2>
+    {% endif %}
+</body>
+</html>
+
+
+
+
+
+
