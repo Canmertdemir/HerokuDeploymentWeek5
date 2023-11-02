@@ -1,1 +1,1 @@
-web: gunicorn deneme:APP
+web: gunicorn deneme:deneme
