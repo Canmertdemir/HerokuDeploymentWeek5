@@ -1,6 +1,6 @@
 Flask==2.2.2
 gunicorn==21.2.0
-
+Werkzeug==2.2.3
 inflection==0.5.1
 
 ipynb-py-convert==0.4.6
