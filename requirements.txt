@@ -1,33 +1,4 @@
 
-anaconda-client==1.12.0
-
-appdirs==1.4.4
-
-atomicwrites==1.4.0
-
-autograd==1.6.2
-
-backports.weakref==1.0.post1
-
-clyent==1.2.2
-
-conda-repo-cli==1.0.75
-
-conda-verify==3.4.2
-
-constantly==15.1.0
-
-cssselect==1.1.0
-
-daal4py==2023.1.1
-
-datashape==0.5.4
-
-docx==0.2.4
-
-fonttools==4.25.0
-
-
 gunicorn==21.2.0
 
 inflection==0.5.1
