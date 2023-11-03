@@ -13,7 +13,6 @@ Lifetimes==0.11.3
 
 missingno==0.5.2
 
-mkl-service==2.4.0
 mlxtend==0.23.0
 
 munkres==1.1.4
@@ -45,7 +44,6 @@ python-lsp-jsonrpc==1.0.0
 pywin32==305.1
 
 scipy==1.11.3
-
 
 webencodings==0.5.1
 
